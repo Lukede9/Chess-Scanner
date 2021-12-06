@@ -5,6 +5,10 @@ One common format for representing a chess position is called FEN. There are web
 Andrew Lee Underwood was already doing something pretty similar except he was doing it with a physical chessboard. I started my project by cloning this repository and altering it as needed:
 https://github.com/andrewleeunderwood/project_MYM
 
+"cv_chess_functions.py" is almost identical to Andrew's version. I tweaked a couple of functions.
+
+The notebook for training the model is basically the same as well. But will be updated in the near future.
+
 And here's the article through which I found the project:
 https://towardsdatascience.com/board-game-image-recognition-using-neural-networks-116fc876dafa
 
